@@ -27,8 +27,7 @@ up would probably produce a mirror-image version.
 
 This was designed in Fusion 360.  I've included a [flat
 DXF](xg6poe_bracket.dxf) suitable for ordering, a Fusion 360 [.f3d
-export file](xg6poe mount v1.f3d), and a [STEP model](xg6poe mount
-v1.step) in the project.
+export file](xg6poe%20mount%20v1.f3d), and a [STEP model](xg6poe%20mount%20v1.step) in the project.
 
 You can view the [bracket online](https://a360.co/3rEbnRu) via
 Autodesk's viewer.
