@@ -18,24 +18,20 @@ in September of 2022 for around $47 total, including shipping.
 I don't have any particular relationship with SendCutSend, other than
 a handful of successful orders.  There are a number of other services
 that can produce this on demand online.  It's not exactly complicated,
-although the clearances are kind of tricky in places.
+although the clearances are kind of tight in places.
 
 With SendCutSend, all 5 bends are folded 90 degrees *down*.  Folding
 up would probably produce a mirror-image version.
 
 ## Details
 
-This was designed in Fusion 360.  I've included a flat DXF, a .f360
-export file, and a STEP model in the project. 
+This was designed in Fusion 360.  I've included a [flat
+DXF](xg6poe_bracket.dxf) suitable for ordering, a Fusion 360 [.f3d
+export file](xg6poe mount v1.f3d), and a [STEP model](xg6poe mount
+v1.step) in the project.
 
-https://a360.co/3rEbnRu
-
-
-<iframe
-src="https://myhub.autodesk360.com/ue295e780/shares/public/SH35dfcQT936092f0e43f69cf1957419ec96?mode=embed"
-width="1024" height="768" allowfullscreen="true"
-webkitallowfullscreen="true" mozallowfullscreen="true"
-frameborder="0"></iframe>
+You can view the [bracket online](https://a360.co/3rEbnRu) via
+Autodesk's viewer.
 
 Expect machining marks on the bracket.  Mine had several obvious marks
 from the brake:
@@ -56,7 +52,9 @@ In an ideal world, I'd probably have folded the top of the power
 supply mount over again, or cut holes into the base for cable ties,
 but this works well enough.
 
-The switch is held into the bracket with 8 short M3 screws.
+The switch is held into the bracket with 8 short M3 screws. I think I
+used 8mm screws, but anything short should be fine, including the
+screws that come with the switch.
 
 ## Alternative
 
